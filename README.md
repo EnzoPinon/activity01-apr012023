@@ -1,1 +1,1 @@
-test
+This is my repository made for the questions given during our April 01, 2023 meeting for our subject "Object Oriented Programming". My answers are located in the "Master" branch of this repository as proof that I have lnstalled and learned how to use git bash.
